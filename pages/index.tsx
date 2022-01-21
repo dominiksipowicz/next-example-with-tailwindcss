@@ -1,6 +1,6 @@
 import Head from 'next/head'
 
-export config = { amp: 'hybrid' };
+export const config = { amp: 'hybrid' };
 
 export default function Home() {
   return (
